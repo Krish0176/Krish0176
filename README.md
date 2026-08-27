@@ -24,7 +24,7 @@
 ```js
 const krishna = {
   degree   : "B.Tech Computer Science & Engineering",
-  year     : "1st Year",
+  year     : "2nd Year",
   location : "India 🇮🇳",
   focus    : ["Full-Stack Dev", "DSA", "Freelancing"],
   currently: "Building PurePlate 🍽 & grinding LeetCode",
@@ -80,8 +80,6 @@ const krishna = {
 ## 🎯 Currently
 
 - 🔨 Building **PurePlate** — food filtering web app
-- 📚 Following a structured **6-month DSA roadmap**
-- 📖 Studying **DBMS (INT306)** and core CS subjects
 - 💸 Exploring **freelancing** opportunities
 - 🌱 Learning **Next.js**, **Redis**, and system design
 
@@ -90,7 +88,7 @@ const krishna = {
 ## 🏆 Achievements
 
 ```
-🎓  B.Tech CSE @ [Your University]
+🎓  B.Tech CSE @ lpu
 🚀  Shipped 6+ real-world projects
 📦  Built a production-ready billing SaaS
 🗃  Created a 100-question SQL practice platform
